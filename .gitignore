@@ -1,0 +1,6 @@
+demo.log
+security.json
+ 
+*.log 
+*.json
+*.config
